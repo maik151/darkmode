@@ -215,7 +215,11 @@ color: var(--green);
     transition: .3s;
 }
 
-
+section{
+    background-color:#00ff9b;
+    font-size: 20em;
+    
+}
 
 
 
